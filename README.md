@@ -20,7 +20,7 @@ Venom Bot sends a GET request to http://localhost:8000/messages with the person'
 Tutorial: 
 
 1- Run the FastAPI API:
-Inside the API directory, use the command uvicorn main:app --reload
+Inside the API directory, use the command fastapi dev apifast.py
 
 2-Run Venom-bot and connect your WhatsApp account using the QR-code on the terminal
 Inside the venom-bot directory, use the command
