@@ -4,10 +4,7 @@ The purpose of the bot is to offer information and services to buyers interested
 ###Requirements: installed Python, Nodejs, Npm, Venom-Bot, FastAPI
 ```
 sudo apt-get install python3.7
-```
-```
-sudo apt-get install nodejs
-```
+``` ```sudo apt-get install nodejs```
 ```
 sudo apt install npm
 ```
