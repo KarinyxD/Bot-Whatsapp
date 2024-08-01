@@ -3,9 +3,10 @@ from fastapi import FastAPI
 
 app = FastAPI()
 
-@app.get("/")
-def read_root():
-    return {"Hello": "World"}
+//test api
+//@app.get("/")
+//def read_root():
+//    return {"Hello": "World"}
 
 @app.get("/messages")
 def receive_message(sender: str, content: Union[str, None] = None):
