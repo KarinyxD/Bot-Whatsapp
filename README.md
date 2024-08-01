@@ -22,6 +22,6 @@ Tutorial:
 1- Run the FastAPI API:
 Inside the API directory, use the command fastapi dev apifast.py
 
-2-Run Venom-bot and connect your WhatsApp account using the QR-code on the terminal
+2-Run Venom-bot and connect your WhatsApp account using the QR-code on the terminal.
 Inside the venom-bot directory, use the command
 npm run venombot.js
