@@ -5,7 +5,7 @@ The purpose of the bot is to offer information and services to buyers interested
 ```sudo apt-get install python3.7``` ```sudo apt-get install nodejs``` ```sudo apt install npm``` ```npm i --save venom-bot``` ```pip install fastapi```
 
 ### First Commit:
-Venom Bot sends a GET request to http://localhost:8000/messages with the person's number and the message they sent. Then Venom responds with the message "Recebemos sua mensagem!".
+Venom Bot sends a GET request to http://localhost:8000/messages with the person's number and the message they sent. Then Venom responds on whatsapp with the message "Recebemos sua mensagem!".
 
 ### Tutorial: 
 
