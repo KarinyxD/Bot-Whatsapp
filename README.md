@@ -10,6 +10,7 @@ npm i --save venom-bot
 pip install fastapi
 
 First Commit:
+
 Venom Bot sends a GET request to http://localhost:8000/messages with the person's number and the message they sent. Then Venom responds with the message "Recebemos sua mensagem!".
 
 Tutorial: 
